@@ -25,7 +25,6 @@ public class MainActivity extends AppCompatActivity implements MenuFragment.Item
         setContentView(R.layout.activity_main);
 
         initView();
-
         initFragment();
 
         //??设置ViewLeft的衰变颜色。可以理解为从open状态到close状态时候渐变的颜色，从自身的颜色渐变到衰变颜色
