@@ -19,7 +19,6 @@ public class MainActivity extends AppCompatActivity implements MenuFragment.Item
     private SlidingPaneLayout layout;
 
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
