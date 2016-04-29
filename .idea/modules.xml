@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/NewGaoJiPro2.iml" filepath="$PROJECT_DIR$/NewGaoJiPro2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SlindingPanoLayoutPro/SlindingPanoLayoutPro.iml" filepath="$PROJECT_DIR$/SlindingPanoLayoutPro/SlindingPanoLayoutPro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SlindingPanoLayoutPro/app.iml" filepath="$PROJECT_DIR$/SlindingPanoLayoutPro/app.iml" />
+    </modules>
+  </component>
+</project>
